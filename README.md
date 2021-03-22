@@ -5,10 +5,12 @@ A plugin for MyBB 1.8.x to easily manage the forums toplinks menu
 Requires the PluginLibrary plugin* (*included in pkg)
 
 
-Still todo:
+Still todo* (if and or whenever I may find the free time and or interest to do such:
 
+- Provide screenshots in documentation
 - provide, create further overall localization support
-- write more descriptive documentation to explain how to use the the menu items as is on title input or say rather if desired to say opt instead to not apply title input on the menu inserts and instead learn to use just like the provided localized default menu items in css stylesheet to translate such items and explain further how in say future documentation one could then do such for thier custom menu items
+- etc, etc....
+- say write more descriptive documentation to explain how to use the the menu items as is on title input or say rather if desired to say opt instead to not apply title input on the menu inserts and instead learn to use just like the provided localized default menu items in css stylesheet to translate such items and explain further how in say future documentation one could then do such for thier custom menu items
 
 ie:
 
