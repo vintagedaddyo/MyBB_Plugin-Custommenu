@@ -2,4 +2,4 @@
 
 A plugin for MyBB 1.8.x to easily manage the forums toplinks menu
 
-Requires the PluginLibrary plugin* (*inlcuded in pkg)
+Requires the PluginLibrary plugin* (*included in pkg)
