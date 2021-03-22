@@ -40,9 +40,9 @@ $l['custommenu_menu_deleted'] = 'Menu deleted';
 $l['custommenu_menu_edited'] = 'Menu edited';
 	
 $l['custommenu_table_id_name'] = 'Identifier <em>*</em>';
-$l['custommenu_table_title'] = 'Link Text';
+$l['custommenu_table_title'] = 'Link Text:';
 
-$l['custommenu_table_title_invisible'] = 'Link Title';
+$l['custommenu_table_title_invisible'] = 'Link Title:';
 
 $l['custommenu_table_link'] = 'URL';
 $l['custommenu_table_icon'] = 'Icon';
